@@ -1,0 +1,759 @@
+{ 
+
+  "dominio": "Fisiológico: básico", 
+
+  "descricao": "Cuidados que dão suporte ao funcionamento físico", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Controle da atividade e do exercício", 
+
+      "intervencoes": [ 
+
+        { "codigo": "0180", "titulo": "Controle da energia" }, 
+
+        { "codigo": "5612", "titulo": "Ensino: exercício prescrito" }, 
+
+        { "codigo": "0140", "titulo": "Promoção da mecânica corporal" }, 
+
+        { "codigo": "0200", "titulo": "Promoção do exercício" }, 
+
+        { "codigo": "0202", "titulo": "Promoção do exercício: alongamento" }, 
+
+        { "codigo": "0201", "titulo": "Promoção do exercício: treino para fortalecimento" }, 
+
+        { "codigo": "0221", "titulo": "Terapia com exercício: controle muscular" }, 
+
+        { "codigo": "0222", "titulo": "Terapia com exercício: deambulação" }, 
+
+        { "codigo": "0223", "titulo": "Terapia com exercício: equilíbrio" }, 
+
+        { "codigo": "0224", "titulo": "Terapia com exercício: mobilidade articular" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Controle da eliminação", 
+
+      "intervencoes": [ 
+
+        { "codigo": "0450", "titulo": "Administração de enema" }, 
+
+        { "codigo": "1804", "titulo": "Assistência no autocuidado: uso do vaso sanitário" }, 
+
+        { "codigo": "0580", "titulo": "Cateterismo vesical" }, 
+
+        { "codigo": "0582", "titulo": "Cateterismo vesical: intermitente" }, 
+
+        { "codigo": "0451", "titulo": "Controle da diarreia" }, 
+
+        { "codigo": "0610", "titulo": "Controle da eliminação urinária" }, 
+
+        { "codigo": "0452", "titulo": "Controle de constipação intestinal/impactação" }, 
+
+        { "codigo": "0612", "titulo": "Controle do pessário" }, 
+
+        { "codigo": "0453", "titulo": "Controle do prolapso retal" }, 
+
+        { "codigo": "0611", "titulo": "Controle intestinal" }, 
+
+        { "codigo": "0615", "titulo": "Cuidados com cateteres: urinário" }, 
+
+        { "codigo": "0480", "titulo": "Cuidados com ostomias" }, 
+
+        { "codigo": "0484", "titulo": "Cuidados na incontinência intestinal" }, 
+
+        { "codigo": "0485", "titulo": "Cuidados na incontinência intestinal: encoprese" }, 
+
+        { "codigo": "0613", "titulo": "Cuidados na incontinência urinária" }, 
+
+        { "codigo": "0614", "titulo": "Cuidados na incontinência urinária: enurese" }, 
+
+        { "codigo": "0616", "titulo": "Cuidados na retenção urinária" }, 
+
+        { "codigo": "0590", "titulo": "Exercícios para a musculatura pélvica" }, 
+
+        { "codigo": "0617", "titulo": "Irrigação vesical" }, 
+
+        { "codigo": "0618", "titulo": "Micção induzida" }, 
+
+        { "codigo": "0454", "titulo": "Redução da flatulência" }, 
+
+        { "codigo": "0619", "titulo": "Treinamento do hábito urinário" }, 
+
+        { "codigo": "0455", "titulo": "Treinamento intestinal" }, 
+
+        { "codigo": "0620", "titulo": "Treinamento vesical" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Controle da mobilidade", 
+
+      "intervencoes": [ 
+
+        { "codigo": "0960", "titulo": "Assistência ao transporte" }, 
+
+        { "codigo": "0962", "titulo": "Cuidados com aparelho gessado/marcapasso" }, 
+
+        { "codigo": "0964", "titulo": "Cuidados com aparelho ortopédico úmido" }, 
+
+        { "codigo": "0966", "titulo": "Cuidados com repouso no leito" }, 
+
+        { "codigo": "0970", "titulo": "Imobilização neurológica" }, 
+
+        { "codigo": "0972", "titulo": "Posicionamento neurológico" }, 
+
+        { "codigo": "0974", "titulo": "Posicionamento: cadeira de rodas" }, 
+
+        { "codigo": "0976", "titulo": "Transferência do paciente" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Fisiológico: complexo", 
+
+  "descricao": "Cuidados que dão suporte à regulação homeostática", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Controle eletrolítico e acidobásico", 
+
+      "intervencoes": [ 
+
+        { "codigo": "1101", "titulo": "Administração de nutrição parenteral total (NPT)" }, 
+
+        { "codigo": "2000", "titulo": "Controle acidobásico" }, 
+
+        { "codigo": "2001", "titulo": "Controle acidobásico: acidose metabólica" }, 
+
+        { "codigo": "2002", "titulo": "Controle acidobásico: acidose respiratória" }, 
+
+        { "codigo": "2003", "titulo": "Controle acidobásico: alcalose metabólica" }, 
+
+        { "codigo": "2004", "titulo": "Controle acidobásico: alcalose respiratória" }, 
+
+        { "codigo": "2120", "titulo": "Controle da hiperglicemia" }, 
+
+        { "codigo": "2140", "titulo": "Controle da hiperlipidemia" }, 
+
+        { "codigo": "2110", "titulo": "Controle da hipoglicemia" }, 
+
+        { "codigo": "2080", "titulo": "Controle de volume de líquidos e eletrólitos" }, 
+
+        { "codigo": "2060", "titulo": "Controle dos eletrólitos" }, 
+
+        { "codigo": "2062", "titulo": "Controle dos eletrólitos: hipercalcemia" }, 
+
+        { "codigo": "2068", "titulo": "Controle dos eletrólitos: hiperfosfatemia" }, 
+
+        { "codigo": "2066", "titulo": "Controle dos eletrólitos: hipermagnesemia" }, 
+
+        { "codigo": "2064", "titulo": "Controle dos eletrólitos: hipernatremia" }, 
+
+        { "codigo": "2067", "titulo": "Controle dos eletrólitos: hipopotassemia" }, 
+
+        { "codigo": "2061", "titulo": "Controle dos eletrólitos: hipocalcemia" }, 
+
+        { "codigo": "2069", "titulo": "Controle dos eletrólitos: hipofosfatemia" }, 
+
+        { "codigo": "2065", "titulo": "Controle dos eletrólitos: hipomagnesemia" }, 
+
+        { "codigo": "2063", "titulo": "Controle dos eletrólitos: hiponatremia" }, 
+
+        { "codigo": "2122", "titulo": "Monitoramento acidobásico" }, 
+
+        { "codigo": "2082", "titulo": "Monitoramento de eletrólitos" }, 
+
+        { "codigo": "4042", "titulo": "Punção de vaso: amostra de sangue arterial" }, 
+
+        { "codigo": "3450", "titulo": "Terapia de diálise peritoneal" }, 
+
+        { "codigo": "3460", "titulo": "Terapia por hemofiltração" }, 
+
+        { "codigo": "3440", "titulo": "Tratamento hemodialítico" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Comportamental", 
+
+  "descricao": "Cuidados que dão suporte ao funcionamento psicossocial e facilitam mudanças no estilo de vida", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Terapia comportamental", 
+
+      "intervencoes": [ 
+
+        { "codigo": "4330", "titulo": "Arteterapia" }, 
+
+        { "codigo": "4470", "titulo": "Assistência na automodificação" }, 
+
+        { "codigo": "4490", "titulo": "Assistência para parar de fumar" }, 
+
+        { "codigo": "4364", "titulo": "Atribuição de mérito" }, 
+
+        { "codigo": "4340", "titulo": "Brincadeira terapêutica" }, 
+
+        { "codigo": "4420", "titulo": "Contrato com o paciente" }, 
+
+        { "codigo": "4350", "titulo": "Controle do comportamento" }, 
+
+        { "codigo": "4430", "titulo": "Terapia socioambiental" }, 
+
+        { "codigo": "4510", "titulo": "Tratamento do uso de substâncias" }, 
+
+        { "codigo": "4514", "titulo": "Tratamento do uso de substâncias: abstinência" }, 
+
+        { "codigo": "4512", "titulo": "Tratamento do uso de substâncias: abstinência de álcool" }, 
+
+        { "codigo": "4516", "titulo": "Tratamento do uso de substâncias: intoxicação" }, 
+
+        { "codigo": "4346", "titulo": "Treinamento da assertividade" }, 
+
+        { "codigo": "4370", "titulo": "Treinamento para controle de impulsos" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Terapia cognitiva", 
+
+      "intervencoes": [ 
+
+        { "codigo": "4640", "titulo": "Assistência na resolução" }, 
+
+        { "codigo": "4840", "titulo": "Biblioterapia" }, 
+
+        { "codigo": "4720", "titulo": "Estimulação cognitiva" }, 
+
+        { "codigo": "5250", "titulo": "Facilitação de aprendizagem" }, 
+
+        { "codigo": "5140", "titulo": "Melhorar a disposição" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Melhora da comunicação", 
+
+      "intervencoes": [ 
+
+        { "codigo": "4978", "titulo": "Facilitação da comunicação" }, 
+
+        { "codigo": "4980", "titulo": "Facilitação da comunicação expressiva" }, 
+
+        { "codigo": "4982", "titulo": "Facilitação da comunicação receptiva" }, 
+
+        { "codigo": "4984", "titulo": "Treinamento de habilidades de conversação" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Assistência no enfrentamento", 
+
+      "intervencoes": [ 
+
+        { "codigo": "5230", "titulo": "Aconselhamento" }, 
+
+        { "codigo": "5400", "titulo": "Promoção da auto-estima" }, 
+
+        { "codigo": "5270", "titulo": "Apoio emocional" }, 
+
+        { "codigo": "5275", "titulo": "Apoio à família" }, 
+
+        { "codigo": "5480", "titulo": "Promoção da integridade espiritual" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Educação do paciente", 
+
+      "intervencoes": [ 
+
+        { "codigo": "5610", "titulo": "Ensino: processo da doença" }, 
+
+        { "codigo": "5614", "titulo": "Ensino: medicamentos prescritos" }, 
+
+        { "codigo": "5618", "titulo": "Ensino: autocuidado" }, 
+
+        { "codigo": "5620", "titulo": "Ensino: dieta prescrita" }, 
+
+        { "codigo": "5622", "titulo": "Ensino: procedimento cirúrgico" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Promoção do conforto psicológico", 
+
+      "intervencoes": [ 
+
+        { "codigo": "5820", "titulo": "Redução da ansiedade" }, 
+
+        { "codigo": "5260", "titulo": "Aconselhamento de luto" }, 
+
+        { "codigo": "5380", "titulo": "Promoção da esperança" }, 
+
+        { "codigo": "5420", "titulo": "Apoio à imagem corporal" }, 
+
+        { "codigo": "5272", "titulo": "Aconselhamento psicológico" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Segurança", 
+
+  "descricao": "Cuidados que dão suporte à proteção contra danos", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Controle de crises", 
+
+      "intervencoes": [ 
+
+        { "codigo": "6362", "titulo": "Captação de órgãos" }, 
+
+        { "codigo": "4095", "titulo": "Controle do desfibrilador: externo" }, 
+
+        { "codigo": "6410", "titulo": "Cuidados de emergência" }, 
+
+        { "codigo": "6510", "titulo": "Facilitação da presença da família" }, 
+
+        { "codigo": "2680", "titulo": "Gerenciamento do código de emergência" }, 
+
+        { "codigo": "6450", "titulo": "Intervenção na crise" }, 
+
+        { "codigo": "6480", "titulo": "Precauções contra hipertermia maligna" }, 
+
+        { "codigo": "6487", "titulo": "Prevenção do suicídio" }, 
+
+        { "codigo": "6486", "titulo": "Primeiros socorros" }, 
+
+        { "codigo": "6440", "titulo": "Reanimação cardiopulmonar" }, 
+
+        { "codigo": "6522", "titulo": "Tratamento do trauma" }, 
+
+        { "codigo": "6610", "titulo": "Triagem: catástrofe" }, 
+
+        { "codigo": "6574", "titulo": "Triagem: centro de emergência" }, 
+
+        { "codigo": "6680", "titulo": "Triagem: telefone" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Controle de riscos", 
+
+      "intervencoes": [ 
+
+        { "codigo": "6540", "titulo": "Apoio à proteção contra abuso" }, 
+
+        { "codigo": "3304", "titulo": "Apoio à proteção contra abuso: idoso" }, 
+
+        { "codigo": "6364", "titulo": "Apoio à proteção contra abuso: infantil" }, 
+
+        { "codigo": "6366", "titulo": "Apoio à proteção contra abuso: parceiro no lar" }, 
+
+        { "codigo": "6530", "titulo": "Apoio à proteção contra abuso: religioso" }, 
+
+        { "codigo": "2920", "titulo": "Avaliação da visão" }, 
+
+        { "codigo": "3200", "titulo": "Avaliação de saúde" }, 
+
+        { "codigo": "6490", "titulo": "Conduta da radioterapia" }, 
+
+        { "codigo": "6660", "titulo": "Contenção física" }, 
+
+        { "codigo": "6670", "titulo": "Contenção química" }, 
+
+        { "codigo": "6370", "titulo": "Controle da anafilaxia" }, 
+
+        { "codigo": "6372", "titulo": "Controle da demência" }, 
+
+        { "codigo": "6374", "titulo": "Controle da demência: banho" }, 
+
+        { "codigo": "6376", "titulo": "Controle da demência: por estupro" }, 
+
+        { "codigo": "6380", "titulo": "Controle da imunização/vacinação" }, 
+
+        { "codigo": "6390", "titulo": "Controle da infecção" }, 
+
+        { "codigo": "6392", "titulo": "Controle da ventilação mecânica: prevenção de pneumonia" }, 
+
+        { "codigo": "6385", "titulo": "Controle das alergias" }, 
+
+        { "codigo": "6386", "titulo": "Controle das alucinações" }, 
+
+        { "codigo": "6388", "titulo": "Controle das convulsões" }, 
+
+        { "codigo": "6391", "titulo": "Controle de ideias delirantes" }, 
+
+        { "codigo": "6400", "titulo": "Controle do ambiente" }, 
+
+        { "codigo": "6402", "titulo": "Controle do ambiente: prevenção de violência" }, 
+
+        { "codigo": "6404", "titulo": "Controle do ambiente: segurança" }, 
+
+        { "codigo": "6406", "titulo": "Controle do delírio" }, 
+
+        { "codigo": "6420", "titulo": "Exame das mamas" }, 
+
+        { "codigo": "6430", "titulo": "Identificação de risco" }, 
+
+        { "codigo": "6432", "titulo": "Identificação do paciente" }, 
+
+        { "codigo": "6434", "titulo": "Monitoramento de sinais vitais" }, 
+
+        { "codigo": "6436", "titulo": "Precauções cirúrgicas" }, 
+
+        { "codigo": "6438", "titulo": "Precauções contra aspiração" }, 
+
+        { "codigo": "6442", "titulo": "Precauções contra fuga" }, 
+
+        { "codigo": "6444", "titulo": "Precauções contra incêndio" }, 
+
+        { "codigo": "6446", "titulo": "Precauções no uso de artigos de látex" }, 
+
+        { "codigo": "6448", "titulo": "Precauções no uso do laser" }, 
+
+        { "codigo": "6452", "titulo": "Prevenção contra quedas" }, 
+
+        { "codigo": "6454", "titulo": "Prevenção de lesões desportivas: jovens" }, 
+
+        { "codigo": "6456", "titulo": "Prevenção de lesões por pressão" }, 
+
+        { "codigo": "6458", "titulo": "Promoção da segurança em veículos" }, 
+
+        { "codigo": "6460", "titulo": "Proteção contra infecção" }, 
+
+        { "codigo": "6462", "titulo": "Reclusão" }, 
+
+        { "codigo": "6464", "titulo": "Reconciliação de medicamentos" }, 
+
+        { "codigo": "6466", "titulo": "Restrição de área" }, 
+
+        { "codigo": "6468", "titulo": "Supervisão" }, 
+
+        { "codigo": "6470", "titulo": "Terapia de validação" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Família", 
+
+  "descricao": "Cuidados que dão suporte à família", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Cuidados na gestação e no nascimento de filhos", 
+
+      "intervencoes": [ 
+
+        { "codigo": "3000", "titulo": "Aconselhamento genético" }, 
+
+        { "codigo": "6826", "titulo": "Aconselhamento na preconcepção" }, 
+
+        { "codigo": "6824", "titulo": "Amnioinfusão" }, 
+
+        { "codigo": "6846", "titulo": "Apoio a procedimento: lactente" }, 
+
+        { "codigo": "6810", "titulo": "Controle da tecnologia reprodutiva" }, 
+
+        { "codigo": "6844", "titulo": "Cuidados com cateter: via umbilical" }, 
+
+        { "codigo": "6842", "titulo": "Cuidados com circuncisão" }, 
+
+        { "codigo": "6830", "titulo": "Cuidados com lactente: pré-termo" }, 
+
+        { "codigo": "6832", "titulo": "Cuidados com lactente: recém-nascido" }, 
+
+        { "codigo": "6800", "titulo": "Cuidados durante o parto" }, 
+
+        { "codigo": "6802", "titulo": "Cuidados durante o parto: parto de alto risco" }, 
+
+        { "codigo": "6804", "titulo": "Cuidados na gravidez de alto risco" }, 
+
+        { "codigo": "6806", "titulo": "Cuidados na interrupção da gravidez" }, 
+
+        { "codigo": "6808", "titulo": "Cuidados no parto cesáreo" }, 
+
+        { "codigo": "6812", "titulo": "Cuidados no pré-natal" }, 
+
+        { "codigo": "6814", "titulo": "Cuidados pós-parto" }, 
+
+        { "codigo": "6822", "titulo": "Facilitação do processo de pesar: morte" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Cuidados na criação de filhos", 
+
+      "intervencoes": [ 
+
+        { "codigo": "5244", "titulo": "Aconselhamento para lactação" }, 
+
+        { "codigo": "6852", "titulo": "Alimentação com copo: recém-nascido" }, 
+
+        { "codigo": "6854", "titulo": "Alimentação por mamadeira" }, 
+
+        { "codigo": "6860", "titulo": "Apoio a irmãos" }, 
+
+        { "codigo": "6364", "titulo": "Apoio à proteção contra abuso: infantil" }, 
+
+        { "codigo": "6835", "titulo": "Cuidados com lactente" }, 
+
+        { "codigo": "0485", "titulo": "Cuidados na incontinência intestinal: encoprese" }, 
+
+        { "codigo": "0614", "titulo": "Cuidados na incontinência urinária: enurese" }, 
+
+        { "codigo": "6890", "titulo": "Ensino: estimulação do lactente de 0 a 4 meses" }, 
+
+        { "codigo": "6892", "titulo": "Ensino: estimulação do lactente de 5 a 8 meses" }, 
+
+        { "codigo": "6894", "titulo": "Ensino: estimulação do lactente de 9 a 12 meses" }, 
+
+        { "codigo": "6896", "titulo": "Ensino: nutrição do lactente de 0 a 3 meses" }, 
+
+        { "codigo": "6898", "titulo": "Ensino: nutrição do lactente de 4 a 6 meses" }, 
+
+        { "codigo": "6900", "titulo": "Ensino: nutrição do lactente de 7 a 9 meses" }, 
+
+        { "codigo": "6902", "titulo": "Ensino: nutrição do lactente de 10 a 12 meses" }, 
+
+        { "codigo": "6904", "titulo": "Ensino: nutrição infantil de 13 a 18 meses" }, 
+
+        { "codigo": "6906", "titulo": "Ensino: nutrição infantil de 19 a 24 meses" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Sistemas de Saúde", 
+
+  "descricao": "Cuidados que dão suporte à eficácia do sistema de saúde", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Mediação do sistema de saúde", 
+
+      "intervencoes": [ 
+
+        { "codigo": "7310", "titulo": "Apoio à tomada de decisão" }, 
+
+        { "codigo": "7440", "titulo": "Apoio ao sustento" }, 
+
+        { "codigo": "7560", "titulo": "Assistência quanto a recursos financeiros" }, 
+
+        { "codigo": "7610", "titulo": "Coordenação de cuidados" }, 
+
+        { "codigo": "7680", "titulo": "Encaminhamento" }, 
+
+        { "codigo": "7682", "titulo": "Encaminhamento: alta" }, 
+
+        { "codigo": "7820", "titulo": "Gerenciamento de caso" }, 
+
+        { "codigo": "7860", "titulo": "Gerenciamento de utilização" }, 
+
+        { "codigo": "7900", "titulo": "Intervenção em sistema de saúde" }, 
+
+        { "codigo": "7920", "titulo": "Negociação" }, 
+
+        { "codigo": "7980", "titulo": "Planejamento da alta" }, 
+
+        { "codigo": "8000", "titulo": "Planejamento da alta: institucional para casa" }, 
+
+        { "codigo": "8010", "titulo": "Planejamento da alta: internação domiciliar" }, 
+
+        { "codigo": "8040", "titulo": "Representação do paciente" }, 
+
+        { "codigo": "8080", "titulo": "Supervisão" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Administração de serviços de saúde", 
+
+      "intervencoes": [ 
+
+        { "codigo": "8100", "titulo": "Administração de enfermagem" }, 
+
+        { "codigo": "8130", "titulo": "Administração de casos" }, 
+
+        { "codigo": "8170", "titulo": "Administração de serviços clínicos" }, 
+
+        { "codigo": "8210", "titulo": "Administração de recursos" }, 
+
+        { "codigo": "8250", "titulo": "Administração de riscos" }, 
+
+        { "codigo": "8280", "titulo": "Administração de segurança" }, 
+
+        { "codigo": "8310", "titulo": "Administração de voluntariado" }, 
+
+        { "codigo": "8340", "titulo": "Coordenação do programa de saúde" }, 
+
+        { "codigo": "8370", "titulo": "Direção de equipe de enfermagem" }, 
+
+        { "codigo": "8400", "titulo": "Gestão de leitos" }, 
+
+        { "codigo": "8430", "titulo": "Gerenciamento de práticas baseadas em evidência" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+{ 
+
+  "dominio": "Comunidade", 
+
+  "descricao": "Cuidados que dão suporte à saúde da população", 
+
+  "classes": [ 
+
+    { 
+
+      "classe": "Promoção da saúde da comunidade", 
+
+      "intervencoes": [ 
+
+        { "codigo": "8510", "titulo": "Controle da imunização/vacinação" }, 
+
+        { "codigo": "8500", "titulo": "Avaliação de saúde" }, 
+
+        { "codigo": "8700", "titulo": "Controle das doenças transmissíveis" }, 
+
+        { "codigo": "8720", "titulo": "Educação para a saúde" }, 
+
+        { "codigo": "8730", "titulo": "Promoção da saúde" }, 
+
+        { "codigo": "8740", "titulo": "Promoção da saúde ambiental" }, 
+
+        { "codigo": "8750", "titulo": "Promoção da saúde mental" }, 
+
+        { "codigo": "8760", "titulo": "Promoção da saúde ocupacional" }, 
+
+        { "codigo": "8770", "titulo": "Promoção da saúde oral" }, 
+
+        { "codigo": "8780", "titulo": "Promoção da saúde sexual" }, 
+
+        { "codigo": "8790", "titulo": "Promoção da saúde: estilo de vida" }, 
+
+        { "codigo": "8800", "titulo": "Promoção da segurança pública" }, 
+
+        { "codigo": "8810", "titulo": "Promoção do bem-estar cultural" }, 
+
+        { "codigo": "8820", "titulo": "Promoção do bem-estar espiritual" } 
+
+      ] 
+
+    }, 
+
+    { 
+
+      "classe": "Apoio à comunidade", 
+
+      "intervencoes": [ 
+
+        { "codigo": "8840", "titulo": "Apoio a grupos de risco" }, 
+
+        { "codigo": "8850", "titulo": "Apoio a populações vulneráveis" }, 
+
+        { "codigo": "8860", "titulo": "Apoio em desastres" }, 
+
+        { "codigo": "8870", "titulo": "Intervenção em crise coletiva" }, 
+
+        { "codigo": "8880", "titulo": "Mobilização da comunidade" }, 
+
+        { "codigo": "8890", "titulo": "Organização da comunidade" }, 
+
+        { "codigo": "8900", "titulo": "Representação da comunidade" }, 
+
+        { "codigo": "8910", "titulo": "Vigilância da saúde da comunidade" } 
+
+      ] 
+
+    } 
+
+  ] 
+
+} 
+
+ 
